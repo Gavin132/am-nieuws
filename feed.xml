@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title>AM Nieuws podcast</title>
+		<link>https://gavin132.github.io/am-nieuws/</link>
+		<description>AM Nieuws podcast</description>
+		<language>en-us</language>
+		<image>
+			<title></title>
+			<link>https://gavin132.github.io/am-nieuws/</link>
+			<url>https://gavin132.github.io/am-nieuws/css/images/icon1.png</url>
+			<width>150</width>
+			<height>150</height>
+		</image>
+		<item>
+			<title>Het begint!</title>
+			<pubDate>26/12/2020</pubDate>
+			<link>https://gavin132.github.io/am-nieuws/</link>
+			<description><![CDATA[Hier <a href="https://gavin132.github.io/am-nieuws/">link </a>]]></description>
+			<enclosure url="https://gavin132.github.io/am-nieuws/podcast1.wav/" length="11" type="audio/wav" />
+		</item>
+	</channel>
+</rss>

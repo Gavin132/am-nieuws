@@ -1,0 +1,51 @@
+ body{
+    background-image: url("images/minecraftbackground.png");
+}
+  
+.button {
+  padding: 10px 25px;
+  font-size: 100%;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #afafaf;
+  background-color: #3e3e3e;
+  border: none;
+  border-radius: 15px;
+}
+
+.buttonactive {
+  padding: 10px 25px;
+  font-size: 100%;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #3e3e3e;
+  border: none;
+  border-radius: 15px;
+}
+
+.button:hover {background-color: #2e2e3e}
+
+.button:active {
+  background-color: #2e2e2e;
+}
+  .header {
+        padding: 20px 10px;
+      font-size: 150%;
+      font-family: Helvetica Neue, Helvetica, Arial, Verdana;
+          background-color: #ebebeb;
+          margin-right: 150px;
+      margin-left: 150px;
+    margin-bottom: -10px;
+  }
+  .text {
+      padding: 10px 10px;
+      font-size: 100%;
+      font-family: Helvetica Neue, Helvetica, Arial, Verdana;
+      background-color: #ebebeb;
+      margin-right: 150px;
+      margin-left: 150px;
+    margin-top: -10px;
+    }

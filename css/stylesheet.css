@@ -50,3 +50,12 @@
     margin-top: -10px;
 	margin-bottom: -10px;
     }
+.controls {
+      padding: 10px 10px;
+      font-size: 100%;
+      font-family: Helvetica Neue, Helvetica, Arial, Verdana;
+      background-color: #ebebeb;
+      margin-right: 150px;
+      margin-left: 150px;
+}
+	
